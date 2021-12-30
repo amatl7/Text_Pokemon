@@ -1,11 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#  Aggies do not lie, cheat, or steal, or tolerate those who do
-#  I have not given or received any unauthorized aid on this assignment
-#
-# Name:         Anthony Matl Landon Matak Luca Maddaleni Nate Michaud
-# Section:      273
-# Assignment:   Lab Assignment 12
-# Date:         11 October 2020
 dashes = '-' * 30
 divider = '-' * 100
 #Note: For future reference, i should globalize the pokemon lists
